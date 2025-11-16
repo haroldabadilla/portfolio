@@ -265,7 +265,7 @@ export default function App() {
   const portfolioData = {
     name: "Harold Juan Granado Abadilla",
     title: "Web Developer & IT Specialist",
-    profileImageUrl: "/images/harold-profile.jpg",
+    profileImageUrl: "images/harold-profile.jpg",
     bio: "Graduate in Information Technology with a passion for building responsive, efficient, and accessible web applications using PHP, React.js, and Bootstrap.",
     about: "I am a passionate developer with a strong foundation in both front-end and back-end technologies. My experience includes developing full-stack systems for community services, optimizing database performance, and providing technical support. I'm skilled in debugging, responsive design, and collaborating in a team environment. I'm eager to apply my skills to build modern, accessible, and impactful web solutions.",
 
@@ -323,16 +323,16 @@ export default function App() {
         media: {
           type: 'carousel',
           items: [
-            { type: 'image', src: '/images/neighborhub-1.png', alt: 'Neighborhub Slide 1' },
-            { type: 'image', src: '/images/neighborhub-2.png', alt: 'Neighborhub Slide 2' },
-            { type: 'image', src: '/images/neighborhub-3.png', alt: 'Neighborhub Slide 3' },
-            { type: 'image', src: '/images/neighborhub-4.png', alt: 'Neighborhub Slide 4' },
-            { type: 'image', src: '/images/neighborhub-5.png', alt: "Neighborhub Slide 5" },
-            { type: 'image', src: '/images/neighborhub-6.png', alt: 'Neighborhub Slide 6' },
-            { type: 'image', src: '/images/neighborhub-7.png', alt: 'Neighborhub Slide 7' },
-            { type: 'image', src: '/images/neighborhub-8.png', alt: 'Neighborhub Slide 8' },
-            { type: 'image', src: '/images/neighborhub-9.png', alt: 'Neighborhub Slide 9' },
-            { type: 'image', src: '/images/neighborhub-10.png', alt: 'Neighborhub Slide 10' }
+            { type: 'image', src: 'images/neighborhub-1.png', alt: 'Neighborhub Slide 1' },
+            { type: 'image', src: 'images/neighborhub-2.png', alt: 'Neighborhub Slide 2' },
+            { type: 'image', src: 'images/neighborhub-3.png', alt: 'Neighborhub Slide 3' },
+            { type: 'image', src: 'images/neighborhub-4.png', alt: 'Neighborhub Slide 4' },
+            { type: 'image', src: 'images/neighborhub-5.png', alt: "Neighborhub Slide 5" },
+            { type: 'image', src: 'images/neighborhub-6.png', alt: 'Neighborhub Slide 6' },
+            { type: 'image', src: 'images/neighborhub-7.png', alt: 'Neighborhub Slide 7' },
+            { type: 'image', src: 'images/neighborhub-8.png', alt: 'Neighborhub Slide 8' },
+            { type: 'image', src: 'images/neighborhub-9.png', alt: 'Neighborhub Slide 9' },
+            { type: 'image', src: 'images/neighborhub-10.png', alt: 'Neighborhub Slide 10' }
           ]
         }
       },
