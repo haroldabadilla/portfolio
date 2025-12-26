@@ -353,6 +353,23 @@ export default function App() {
           ]
         }
       },
+      {
+        title: "Memorial Tribute Platform",
+        description: "Developed a full-stack memorial site for departed loved ones using Hybrid Architecture (C# .NET & React.js).",
+        links: [
+          { label: "View Details", url: "https://haroldabadilla.github.io/memorial/" }
+        ],
+        tech: ["React.js", "C# .NET", "Cloudinary API", "JSON", "CSS3"],
+        media: {
+          type: 'carousel',
+          items: [
+            { type: 'image', src: 'images/memorial-1.png', alt: 'Memorial Tribute Slide 1' },
+            { type: 'image', src: 'images/memorial-2.png', alt: 'Memorial Tribute Slide 2' },
+            { type: 'image', src: 'images/memorial-3.png', alt: 'Memorial Tribute Slide 3' },
+            { type: 'image', src: 'images/memorial-4.png', alt: 'Memorial Tribute Slide 4' },
+          ]
+        }
+      },
     ],
     links: {
       email: "mailto:haroldabadilla02@gmail.com",
