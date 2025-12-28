@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "[https://haroldabadilla.github.io/harold-portfolio](https://haroldabadilla.github.io/harold-portfolio)",
+  "homepage": "[https://haroldabadilla.github.io/portfolio](https://haroldabadilla.github.io/portfolio)",
   "type": "module",
   "scripts": {
     "dev": "vite",
