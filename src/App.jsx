@@ -272,6 +272,7 @@ export default function App() {
     skills: {
       "Languages & Frameworks": [
         { name: "React.js", icon: "images/react-icon.svg" }, // Custom SVG
+        { name: "C#", icon: "bi bi-c-circle" },
         { name: "JavaScript (ES6+)", icon: "bi-filetype-js" },
         { name: "PHP", icon: "bi-filetype-php" },
         { name: "Node.js", icon: "images/nodejs-icon.svg" },
